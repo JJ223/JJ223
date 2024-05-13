@@ -1,8 +1,5 @@
 # I'm João Jorge and welcome GitHub Profile! 👋
-
-## About Me
-
-I'm a recent graduate of an Integrated Masters in Computer Science with a keen interest in AI and autonomous systems. Passionate about leveraging technology to tackle real-world challenges and drive innovation.
+👋 Recent Integrated Masters in Computer Science graduate with a passion for AI and autonomous systems. 💻 Excited about leveraging technology to create intelligent and autonomous solutions that improve lives and drive innovation. 🤖 Constantly exploring new ideas and technologies to expand knowledge and skills in the field. Let's collaborate and build the future together! 🚀
 
 ## Experience
 
